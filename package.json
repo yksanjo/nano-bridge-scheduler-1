@@ -1,0 +1,18 @@
+{
+  "name": "@loop/nano-bridge-scheduler-1",
+  "version": "1.0.0",
+  "description": "Auto-generated project #8 by Infinite Loop Factory",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/nano-bridge-scheduler-1.git"
+  }
+}
